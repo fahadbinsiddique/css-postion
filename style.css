@@ -1,0 +1,56 @@
+.flag{
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin-top: 40px;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.box{
+    height: 50px;
+    width: 250px;
+    background-color: aqua;
+    
+    margin-left: 20px;
+    margin: auto;
+    position: sticky;
+    top: 0;
+    
+}
+h2{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 12px;
+    
+    
+}
+
+h3{
+    background-color: blue;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    position: fixed;
+    right:  0;
+    bottom: 0;
+    
+}
+p{
+    width: 300px;
+}
